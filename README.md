@@ -2,10 +2,10 @@
 ## 🌟 Project Title
 Free Music Recommendation System using Spotify API & Streamlit
 
-##🔹 Overview
+###🔹 Overview
 This application lets you search for a song and get tailored recommendations based on its audio features (like energy, danceability, and mood) — powered by Spotify’s API and displayed through Streamlit.
 
-##🔹 Features
+###🔹 Features
 ✅ Search for a song by its title
 ✅ View song details (artist, album, preview link)
 ✅ Get song recommendations with similar audio profiles
