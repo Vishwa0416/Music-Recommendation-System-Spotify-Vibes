@@ -29,7 +29,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/music-recommendation.git
+git clone [https://github.com/your-username/music-recommendation.git](https://github.com/Vishwa0416/Music-Recommendation-System-Spotify-Vibes)
 cd music-recommendation
 Create and activate a virtual environment (optional but recommended):
 
